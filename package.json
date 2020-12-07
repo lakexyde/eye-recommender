@@ -2,7 +2,7 @@
   "name": "@eyevinn/eye-recommender",
   "author": "Erik Hoffman",
   "description": "A Recommendation Engine built on Node.js utilizing Redis",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": {
     "type": "git",
     "url": "https://github.com/Eyevinn/eye-recommender.git"
