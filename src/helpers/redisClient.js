@@ -4,7 +4,7 @@ const Redis = require("ioredis");
 const opts = {
   port: config.redisPort,
   host: config.redisUrl,
-  passowrd: config.redisAuth
+  password: config.redisAuth
 };
 
 const client = new Redis(opts);
