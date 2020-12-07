@@ -1,1 +1,1 @@
-module.exports = require("./src/eyeRecommender");
+module.exports = require("./src/EyeRecommender");
